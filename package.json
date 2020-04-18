@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "worker",
+  "name": "my-worker",
   "version": "1.0.0",
   "description": "A template for kick starting a Cloudflare Workers project",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "format": "prettier --write '**/*.{js,css,json,md}'"
   },
-  "author": "Kristian Freeman <kristian@kristianfreeman.com>",
+  "author": "Pezanne Khambatta <pkhambat@risd.edu>",
   "license": "MIT",
   "devDependencies": {
     "prettier": "^1.18.2"
